@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppOne</string>
+    <string name="title_phone">Phone</string>
+    <string name="title_app">APP</string>
+    <string name="title_map">Map</string>
+    <string name="button_text">Button</string>
+</resources>
